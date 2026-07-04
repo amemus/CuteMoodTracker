@@ -1,4 +1,4 @@
-Cute Mood Tracker 🌸
+ Mood Tracker 
 
 A C++ program to track weekly moods and provide a summary report. Designed to demonstrate OOP concepts like classes, private/public members, arrays, and functions.
 
